@@ -1,4 +1,4 @@
 package com.company;
 
-public class ConsoleLogger {
+public class ConsoleLogger extends BaseLogger{
 }
